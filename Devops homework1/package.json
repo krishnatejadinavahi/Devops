@@ -1,0 +1,11 @@
+{
+	"name": "Teja",
+	"version": "0.0.0",
+	
+	"dependencies":{
+	
+		 "aws-sdk":"*",
+		 "needle":"*"
+	
+	}
+}
